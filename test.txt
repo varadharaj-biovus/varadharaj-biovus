@@ -1,1 +1,12 @@
 ﻿Hello varadharaj this is my first git file
+
+
+git init // to create new repo
+
+git config –-global user.name “author name”
+git config –-global user.email “user@email.com”
+git status // To find status of the git 
+git add file.name // to add the file on git local rep
+git commit -m “description of the commit” // now commit the file on git to save 							//not there on local git rep.
+Git log // to find the details of commit with hash id
+
